@@ -1,7 +1,7 @@
 //'use strict'
 
 
-name2 = 'fooBar';
+name2 = 'foo';
 function my(){
     return this.name2;
 }
